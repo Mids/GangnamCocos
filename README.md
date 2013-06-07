@@ -19,3 +19,7 @@ Cocos2d-x study project by Gangnam developers
     Configure appropriate settings
 
 * Build & Run
+
+## Resources
+
+	https://www.dropbox.com/sh/p6byr3bih0awp2k/pFLywJT4QW
