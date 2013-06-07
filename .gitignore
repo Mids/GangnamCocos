@@ -1,0 +1,12 @@
+cocos2dx/
+*.exp
+*.tlog
+*.rc
+*.vcxproj
+*.filters
+*.lastbuildstate
+*.opensdf
+*.sdf
+*.sln
+*.res
+*.idb
