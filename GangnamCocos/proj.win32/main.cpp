@@ -35,5 +35,3 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 
     return ret;
 }
-
-
